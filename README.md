@@ -76,7 +76,7 @@ Sou muito determinado e com fome de aprender tenho grande interesse em programar
 <div align="center">
   <a href="https://github.com/CaimSant">
   <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=CaimSant&show_icons=true&theme=highcontrast&include_all_commits=true"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaimSant&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api?username=CaimSant&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+    <img height="200" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaimSant&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
 </div>
